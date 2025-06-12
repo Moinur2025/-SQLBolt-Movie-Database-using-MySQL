@@ -1,6 +1,6 @@
-# -SQLBolt-Movie-Database-using-MySQL
+# SQLBolt-Movie-Database-using-MySQL
 
-# 🐬 Learn SQL with MySQL – Beginner Project
+# 🐬 Learn SQL with MySQL – Project
 
 Welcome to the **Learn SQL with MySQL** project! This repository is designed to help beginners understand the fundamentals of SQL through simple, interactive-style exercises and real-world examples using the MySQL database engine.
 
